@@ -1,8 +1,8 @@
-site_name: kmua-bot v2
-site_author: Krau
-site_description: kmua-bot v2 官方文档
-repo_name: krau/kmua-bot
-repo_url: https://github.com/krau/kmua-bot
+site_name: test
+site_author: NyanWhite
+site_description: 1
+repo_name: NyanWhite/NyanWhite.github.io/
+repo_url: https://NyanWhite.github.io
 copyright: CC BY-NC-SA 4.0
 theme:
   name: material
