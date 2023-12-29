@@ -11,6 +11,4 @@ theme:
 
 nav:
   - index.md
-  - help.md
-  - self-host.md
-  - license.md
+  - 2023年的年度总结.md
